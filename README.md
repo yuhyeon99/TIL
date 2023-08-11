@@ -2,7 +2,7 @@
 
 ## TypeScript
 * [노마드코더] TypeScript 중급강좌
-  * [1. 타입스크립트란?](https://github.com/cheese10yun/TIL/blob/master/Spring/IoC/DI-%EA%B8%B0%EC%B4%88.md)
+  * [1. 타입스크립트란?](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80.md)
   * [2. TypeScript의 Type 시스템]
   * [3. Types of TS(기본)_1]
   * [4. Types of TS(기본)_2]
