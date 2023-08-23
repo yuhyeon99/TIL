@@ -7,7 +7,7 @@
   * [3. Types of TS(기본)_1](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/3.%20Types%20of%20TS(%EA%B8%B0%EB%B3%B8)_1.md)
   * [4. Types of TS(기본)_2](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/4.%20Types%20of%20TS(%EA%B8%B0%EB%B3%B8)_2.md)
   * [5. Types of TS(기본)_3](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/5.%20Types%20of%20TS(%EA%B8%B0%EB%B3%B8)_3.md)
-  * [6. Call Signatures])(https://github.com/yuhyeon99/TIL/blob/master/TypeScript/6.%20Call%20Signatures.md)
+  * [6. Call Signatures](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/6.%20Call%20Signatures.md)
   * [7. Polymorphism(다형성)](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/7.%20Polymorphism(%EB%8B%A4%ED%98%95%EC%84%B1).md)
   * [8. Generics Recap](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/8.%20Generics%20Recap.md)
   * [9. Conclusions](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/9.%20Conclusions.md)
