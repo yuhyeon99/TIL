@@ -2,7 +2,7 @@
 
 ## TypeScript
 * [노마드코더] TypeScript 중급강좌
-  * [1. 타입스크립트란?](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80.md)
+  * [1. 타입스크립트란?](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/1.%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80.md)
   * [2. TypeScript의 Type 시스템](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/2.%20TypeScript%20%EC%9D%98%20Type%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
   * [3. Types of TS(기본)_1](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/3.%20Types%20of%20TS(%EA%B8%B0%EB%B3%B8)_1.md)
   * [4. Types of TS(기본)_2](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/4.%20Types%20of%20TS(%EA%B8%B0%EB%B3%B8)_2.md)
