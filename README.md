@@ -3,23 +3,23 @@
 ## TypeScript
 * [노마드코더] TypeScript 중급강좌
   * [1. 타입스크립트란?](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80.md)
-  * [2. TypeScript의 Type 시스템]
-  * [3. Types of TS(기본)_1]
-  * [4. Types of TS(기본)_2]
-  * [5. Types of TS(기본)_3]
-  * [6. Call Signatures]
-  * [7. Polymorphism(다형성)]
-  * [8. Generics Recap]
-  * [9. Conclusions]
-  * [10. Classes]
-  * [11. Recap]
-  * [12. Interfaces]
-  * [13. Interfaces(2)]
-  * [14. Recap]
-  * [15. Polymorphism]
-  * [16. [TYPESCRIPT BLOCKCHAIN] Targets]
-  * [17. [TYPESCRIPT BLOCKCHAIN] Lib Configuration]
-  * [18. [TYPESCRIPT BLOCKCHAIN] Declaration Files]
-  * [19. [TYPESCRIPT BLOCKCHAIN] JsDoc]
-  * [20. [TYPESCRIPT BLOCKCHAIN] Blocks]
-  * [21. [TYPESCRIPT BLOCKCHAIN] DefinitelyTyped]
+  * [2. TypeScript의 Type 시스템](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/2.%20TypeScript%20%EC%9D%98%20Type%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+  * [3. Types of TS(기본)_1](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/3.%20Types%20of%20TS(%EA%B8%B0%EB%B3%B8)_1.md)
+  * [4. Types of TS(기본)_2](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/4.%20Types%20of%20TS(%EA%B8%B0%EB%B3%B8)_2.md)
+  * [5. Types of TS(기본)_3](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/5.%20Types%20of%20TS(%EA%B8%B0%EB%B3%B8)_3.md)
+  * [6. Call Signatures])(https://github.com/yuhyeon99/TIL/blob/master/TypeScript/6.%20Call%20Signatures.md)
+  * [7. Polymorphism(다형성)](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/7.%20Polymorphism(%EB%8B%A4%ED%98%95%EC%84%B1).md)
+  * [8. Generics Recap](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/8.%20Generics%20Recap.md)
+  * [9. Conclusions](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/9.%20Conclusions.md)
+  * [10. Classes](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/10.%20Classes.md)
+  * [11. Recap](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/11.%20Recap.md)
+  * [12. Interfaces](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/12.%20Interfaces.md)
+  * [13. Interfaces(2)](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/13.%20Interfaces(2).md)
+  * [14. Recap](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/14.%20Recap.md)
+  * [15. Polymorphism](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/15.%20Polymorphism.md)
+  * [16. [TYPESCRIPT BLOCKCHAIN] Targets](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/16.%20%5BTYPESCRIPT%20BLOCKCHAIN%5D%20Targets.md)
+  * [17. [TYPESCRIPT BLOCKCHAIN] Lib Configuration](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/17.%20%5BTYPESCRIPT%20BLOCKCHAIN%5D%20Lib%20Configuration.md)
+  * [18. [TYPESCRIPT BLOCKCHAIN] Declaration Files](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/18.%20%5BTYPESCRIPT%20BLOCKCHAIN%5D%20Declaration%20Files.md)
+  * [19. [TYPESCRIPT BLOCKCHAIN] JsDoc](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/19.%20%5BTYPESCRIPT%20BLOCKCHAIN%5D%20JsDoc.md)
+  * [20. [TYPESCRIPT BLOCKCHAIN] Blocks](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/20.%20%5BTYPESCRIPT%20BLOCKCHAIN%5D%20Blocks.md)
+  * [21. [TYPESCRIPT BLOCKCHAIN] DefinitelyTyped](https://github.com/yuhyeon99/TIL/blob/master/TypeScript/21.%20%5BTYPESCRIPT%20BLOCKCHAIN%5D%20DefinitelyTyped.md)
