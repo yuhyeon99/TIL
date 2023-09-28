@@ -1,3 +1,5 @@
+# AWS S3를 통한 정적 웹 사이트 배포 및 GitHub Actions를 통한 CI/CD(NextJS)
+
 ## 도입
 
 이 글을 통해 `AWS IAM, AWS S3, AWS CloudFrount, AWS Route53, ACM(AWS Certification Manager)ㅇ`
@@ -150,6 +152,8 @@ HTTP보다 보안이 높은 HTTPS를 사용하기 위해서는 **SSL/TLS** 인�
 <aside>
 💡 CloudFront에서 적용 가능한 인증서의 지역은 us-east-1 이어야하기 때문에 먼저 우측 상단에서 해당 지역( us-east-1 )이 맞는지 확인한 뒤 아닐 경우 선택하고나서 인증서를 생성합니다.
 
+**주의**
+
 </aside>
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ae098ee2-820a-40b8-a80f-961610b6b0ee/11a053ba-ff11-4f51-ae84-bbaa44402e59/Untitled.png)
@@ -278,5 +282,3 @@ next.config.js에서 아래와 같이 output : “export” 속성과 속성값�
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ae098ee2-820a-40b8-a80f-961610b6b0ee/2f1fcbf0-3e67-498a-899b-0e8e5759105b/Untitled.png)
 
 이제 다시 **버킷 웹 사이트 엔드포인트**에 접근하면 아래 이미지와 같이 정상적으로 정적 웹 사이트가 배포된 것을 확인할 수 있습니다.
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ae098ee2-820a-40b8-a80f-961610b6b0ee/6371d5a6-85be-44d5-b26c-856b651ddc02/Untitled.png)
