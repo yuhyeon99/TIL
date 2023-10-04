@@ -32,6 +32,9 @@
 * [NextJS 13에서 404 페이지 핸들링](https://github.com/yuhyeon99/TIL/blob/master/NextJs/NextJS%2013%EC%97%90%EC%84%9C%20404%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%ED%95%B8%EB%93%A4%EB%A7%81.md)
 * [NextJS13에서의 정적 생성getStaticProps(X)](https://github.com/yuhyeon99/TIL/blob/master/NextJs/NextJS13%EC%97%90%EC%84%9C%EC%9D%98%20%EC%A0%95%EC%A0%81%20%EC%83%9D%EC%84%B1getStaticProps(X).md)
 
+## Flask
+* [Flask + ReactJS 연동]
+
 ## Block_Chain/Dapp
 * [Dapp개발환경세팅](https://github.com/yuhyeon99/TIL/blob/master/Block_Chain/Dapp/Dapp%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%84%B8%ED%8C%85.md)
 * [Truffle 프로젝트 설명 및 구조 설명](https://github.com/yuhyeon99/TIL/blob/master/Block_Chain/Dapp/Truffle%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EB%AA%85%20%EB%B0%8F%20%EA%B5%AC%EC%A1%B0%20%EC%84%A4%EB%AA%85.md)
