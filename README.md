@@ -33,7 +33,7 @@
 * [NextJS13에서의 정적 생성getStaticProps(X)](https://github.com/yuhyeon99/TIL/blob/master/NextJs/NextJS13%EC%97%90%EC%84%9C%EC%9D%98%20%EC%A0%95%EC%A0%81%20%EC%83%9D%EC%84%B1getStaticProps(X).md)
 
 ## Flask
-* [Flask + ReactJS 연동]
+* [Flask + ReactJS 연동](https://github.com/yuhyeon99/TIL/blob/master/Flask/Flask%20%2B%20ReactJS%20%EC%97%B0%EB%8F%99.md)
 
 ## Block_Chain/Dapp
 * [Dapp개발환경세팅](https://github.com/yuhyeon99/TIL/blob/master/Block_Chain/Dapp/Dapp%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%84%B8%ED%8C%85.md)
